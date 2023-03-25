@@ -1,0 +1,13 @@
+/* Write your code here. */
+.item-container {
+  list-style-type: none;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+.logo {
+  opacity: 0.5;
+}
+.button {
+  border: none;
+  background-color: #ffffff;
+}
